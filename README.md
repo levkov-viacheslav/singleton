@@ -1,0 +1,1 @@
+An example of a Java class that implements the Singleton pattern
